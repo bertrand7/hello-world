@@ -1,2 +1,2 @@
 # hello-world
-Tester Git-hub
+Test d'écriture d'un readme dans Git-hub.
